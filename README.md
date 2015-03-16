@@ -32,5 +32,5 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 
 
 ## 版权 License
-本作品以 CC-署名-非商业使用-禁止演绎(CC-BY-NC-ND) 版权进行发布。
+本作品以 署名-非商业使用-禁止演绎(CC BY-NC-ND) 版权进行发布。
 
