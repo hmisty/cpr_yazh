@@ -16,7 +16,7 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 * 1781年第一版序 2
 * 1787年第二版序 19
 * 一、(纯粹理性)要素的超验原理 104
- * 第一部分 超验感性 105
+ * 第一部分 超验美感 105
  * 第一节 关于空间 111
  * 第二节 关于时间 123
  * 第二部分 超验逻辑 160
@@ -26,9 +26,10 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 
 
 ## 词汇表
-- 超验的 transendental
-- 超验感性 transendental aesthetic
 - 要素 element
+- 超验的 transendental
+- 美感 aesthetic
+- 逻辑 logic
 
 
 ## 版权 License
