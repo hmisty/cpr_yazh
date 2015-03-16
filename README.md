@@ -4,7 +4,7 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 
 原作：Immanuel Kant 康德
 
-翻译：Evan Liu 刘青焱
+翻译：marchmars 三月火星 (Evan's pen name)
 
 目前所有的中译本简直比英文译本还要晦涩难懂。这本书不应该当做文学著作去翻译，而应该用翻译科学著作的方法去翻译，而这就是这个译本所努力做的。
 
