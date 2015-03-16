@@ -1,11 +1,12 @@
-# cpr_zh
-Simplified Chinese translation of CPR (Critique of Pure Reason)
-《纯粹理性批判》简单中文译本
+# cpr_yazh
+Critique of Pure Reason - Yet Another Zhong (Chinese) translation
+《纯粹理性批判》新中译
 
 原作：Immanuel Kant 康德
+
 翻译：Evan Liu 刘青焱
 
-“简中”的意思不是简体中文，而是简单中文。因为目前所有的中译本简直比英文译本还要晦涩难懂。这本书不应该当做文学著作去翻译，而应该用翻译科学著作的方法去翻译，而这就是这个译本所努力做的。
+目前所有的中译本简直比英文译本还要晦涩难懂。这本书不应该当做文学著作去翻译，而应该用翻译科学著作的方法去翻译，而这就是这个译本所努力做的。
 
 因为译者的德文尚未入门，所以该译本暂以古登堡计划所提供的J.M.D. Meiklejohn的英译本为蓝本，待日后译者学习德文后，再以德文原版进行校正。
 
@@ -22,7 +23,6 @@ Simplified Chinese translation of CPR (Critique of Pure Reason)
  * 第一篇 超验逻辑 179
  * 第一卷 182
  * 第二卷 288
- * 
 
 
 ## 词汇表
@@ -31,4 +31,6 @@ Simplified Chinese translation of CPR (Critique of Pure Reason)
 - 要素 element
 
 
+## 版权 License
+本作品以 CC-署名-非商业使用-禁止演绎(CC-BY-NC-ND) 版权进行发布。
 
