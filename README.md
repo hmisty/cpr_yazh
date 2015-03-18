@@ -28,10 +28,11 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 ## 词汇表
 - 要素 element
 - 超验的 transendental
-- 感性 aesthetic: aesthetic源于希腊文，原意为“可感知的”。该词后来逐渐用于对事物的美丑的感知能力或评价，即审美。
+- 感性 aesthetic: aesthetic = a- + esthetic (来自于希腊动词 aísthesthai 意为 perceive 感知). 这个意思在 anaesthetic (麻醉)中也有体现，其字面意思without feeling 无感。
 - 逻辑 logic
 
 
 ## 版权 License
 本作品以 署名-非商业使用-禁止演绎(CC BY-NC-ND) 版权进行发布。
 
+联系作者：evanliuchina AT gmail.com
