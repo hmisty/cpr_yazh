@@ -67,12 +67,17 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
         16. 对于理解力纯概念在经验之中进行普遍的、可行的运用的超验推论。SS 22
         17. 理解力概念的推论结果。SS 23
       2. 第二编。对原则的分析
-        * 引言。关于一般情况下判断的
+        * 引言。关于超验判断力的一般情况。
+        * 判断力的超验论，或，对原则的分析。
+        * 第一章。关于理解力纯粹概念的模式排列。
+        * 第二章。纯粹
 
 
 
 
 ## 词汇表
+- 模式 schema
+- 模式排列 schematism
 - 原则 principle
 - 纯粹，纯 pure
 - 客体，客体对象 object
@@ -91,6 +96,7 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 - 理解力 understanding
 - 认识 cognition
 - 判断 judgement
+- 判断力 faculty of judgement
 - 分析的 analytical
 - 综合的 synthetical
 - 分析法 analytic
