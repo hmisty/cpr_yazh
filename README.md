@@ -152,7 +152,9 @@ Critique of Pure Reason - Yet Another Zhong (Chinese) translation
 - 普遍的 universal
 - 构想 idea and division: 想法和构成 = 构想 
 - 要素 element
-- 超验的 transendental
+- 超越的，超验的 transcendental: transcendental number 超越数
+- 超感 transcendental aesthetic
+- 超逻辑 transcendental logic
 - 感性 aesthetic: aesthetic = a- + esthetic (来自于希腊动词 aísthesthai 意为 perceive 感知). 这个意思在 anaesthetic (麻醉)中也有体现，其字面意思without feeling 无感。
 - 逻辑 logic
 
